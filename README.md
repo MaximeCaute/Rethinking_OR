@@ -1,5 +1,9 @@
 # Rethinking Operation Reserach: learning on-demand delivery policies with supervised deep learning
 
+Repository of the Semester Project: Rethinking Operation Reserach: learning on-demand delivery policies with supervised deep learning. 
+
+It contains the final report, slides from the final presentation and code. 
+
 The folder `Codes /Python` contains the code of the project which includes:
 
 * Jupyter Notebooks with different results:
