@@ -1,0 +1,10 @@
+## SOME EXPLANATIONS
+
+# EVENT TYPE
+
+1: Demand generation
+2: Vehicle Departure
+3: Pickup
+4: Dropoff
+5: Vehicle Arrival
+6: Recharging 
