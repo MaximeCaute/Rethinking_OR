@@ -1,6 +1,6 @@
 # Rethinking Operation Reserach: learning on-demand delivery policies with supervised deep learning
 
-The folder `Python` contains the code of the project which includes:
+The folder `Codes /Python` contains the code of the project which includes:
 
 * Jupyter Notebooks with different results:
 
