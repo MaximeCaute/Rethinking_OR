@@ -1,2 +1,5 @@
 
 .DS_Store
+.ipynb_checkpoints
+./Python/.DS_Store
+./Python/.ipynb_checkpoints
