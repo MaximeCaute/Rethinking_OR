@@ -4,7 +4,7 @@ Repository of the Semester Project: Rethinking Operation Reserach: learning on-d
 
 It contains the final report, slides from the final presentation and code. 
 
-The folder `Codes /Python` contains the code of the project which includes:
+The folder `Code/Python` contains the code of the project which includes:
 
 * Jupyter Notebooks with different results:
 
